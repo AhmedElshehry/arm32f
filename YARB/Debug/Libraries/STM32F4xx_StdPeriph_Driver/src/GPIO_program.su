@@ -1,0 +1,6 @@
+GPIO_program.c:20:6:MGPIO_voidSetPinDrictionOutAf	16	static
+GPIO_program.c:378:6:MGPIO_voidSetPinDrictionMode	16	static
+GPIO_program.c:492:6:MGPIO_voidActivePullUpPullDown	16	static
+GPIO_program.c:574:6:MGPIO_voidSetPinValue	16	static
+GPIO_program.c:693:4:MGPIO_u8GetPinValue	24	static
+GPIO_program.c:738:6:MGPIO_voidSetAfPeripier	16	static

@@ -1,0 +1,6 @@
+USART_program.c:15:6:MUSART1_voidInit	4	static
+USART_program.c:41:6:MUSART1_Transmitdata	16	static
+USART_program.c:51:6:MUSART1_voidTransmit	24	static
+USART_program.c:65:4:MUSART1_u8Receive	16	static
+USART_program.c:73:4:MUSART1_Receive1	24	static
+USART_program.c:96:6:comper_string	24	static

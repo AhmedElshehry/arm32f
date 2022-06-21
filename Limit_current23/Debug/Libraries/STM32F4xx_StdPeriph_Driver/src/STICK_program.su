@@ -1,0 +1,8 @@
+STICK_program.c:27:6:MSTICK_voidInit	4	static
+STICK_program.c:60:6:MSTICK_voidSetBusyWait	16	static
+STICK_program.c:79:6:MSTICK_voidSetIntervalSingle	16	static
+STICK_program.c:98:6:MSTICK_voidSetIntervalPeriodic	16	static
+STICK_program.c:117:6:MSTICK_voidStopTimer	4	static
+STICK_program.c:131:6:MSTICK_u32GetElapsedTime	16	static
+STICK_program.c:138:6:MSTICK_u32GetRemainingTime	16	static
+STICK_program.c:145:6:SysTick_Handler	16	static

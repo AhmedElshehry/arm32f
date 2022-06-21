@@ -1,0 +1,5 @@
+main.c:31:5:main	40	static
+main.c:152:6:Read_SENSOR	24	static
+main.c:171:6:Comper_HOLD_Read_sensor	4	static
+main.c:201:5:Map_Vlotage_Current	24	static
+main.c:213:5:Map_Current_Truset	16	static
